@@ -1,5 +1,5 @@
 <footer> 
-  <p>© 2023 Grocery Store. 
+  <p>© 2023 Web winkel. 
     All rights reserved. 
   </p> 
 </footer> 
